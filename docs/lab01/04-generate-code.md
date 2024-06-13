@@ -2,7 +2,7 @@
 
 ## 04 利用数据库问答结果提高代码生成准确率
 
-SmartCode Lite 智能体不仅仅可以独立工作，也可以和 GitHub Copilot 配合工作，帮助 GitHub Copilot 生成更加准确的代码。
+SmartCode Lite 智能体不仅仅可以独立工作，也可以和 GitHub Copilot 配合工作，帮助 GitHub Copilot 生成更加准确的代码。如果把 GitHub Copilot 也当作一个智能体，我们通过插件创造了一个 `开发者+SmartCode + GitHub Copilot` 的多智能体互动环境，利用Chat上下文，让信息在多个智能体之间流动，实现我们最终的生成任务。
 
 > GitHub Copilot是当前 AI智能编码 领域中代码生成率准确率和采纳率最高的产品，但是对于数据库相关的代码生成仍然是比较难以解决的问题。其难点在于GitHub Copilot很难直接接入企业内部的数据库来获取数据结构信息，同时由于数据库种类繁多并且企业中的数据库结构复杂，规模也比较大，简单的将数据库结构脚本发给GitHub Copilot 也无法获得很好的使用效果。
 

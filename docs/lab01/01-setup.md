@@ -1,8 +1,8 @@
 # Lab01：SmartCode for GitHub Copilot 数据库智能体使用体验
 
-## 01 - 启动SmartCode Lite插件
+## 01 - 启动SmartCode Lite DEMO插件
 
-在本实验中，我们将使用启动一个完成版的SmartCode Lite插件。
+在本实验中，我们将使用启动一个完成版的SmartCode Lite DEMO插件。
 
 ### 步骤 1 - 准备实验环境
 
@@ -30,7 +30,7 @@ npm install
 
 在 VSCode 左侧的工具栏中点击 `插件` 图标，安装 GitHub Copilot 插件。
 
-> 因为在代码中已经制定了GitHub Copilot作为依赖项，VSCode会自动启动安装动作
+> 因为在代码中已经指定了GitHub Copilot作为依赖项，VSCode会自动启动安装动作。如果自动安装没有启动，请手工安装。
 
 确保插件安装成功，并成功登录了自己的账号
 
