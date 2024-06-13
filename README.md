@@ -59,7 +59,7 @@ GitHub Copilot 智能体 能力当前仍然处于预览版状态，因此我们�
 
 ## 内测申请
 
-SmartCode Lite 产品将在最近发布，我们正在招募首批内测用户，请扫码加入我们的内测计划。
+SmartCode Lite 正在招募首批内测用户，请扫码加入我们的内测计划。我们会会在近期和您取得联系。
 
 ![](./smartcode-waitinglist.png)
 

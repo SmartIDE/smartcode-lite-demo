@@ -24,6 +24,13 @@ SmartCode Lite 智能体不仅仅可以独立工作，也可以和 GitHub Copilo
 
 实验结束。
 
+## 内测申请
+
+SmartCode Lite 正在招募首批内测用户，请扫码加入我们的内测计划。我们会会在近期和您取得联系。
+
+![](../../smartcode-waitinglist.png)
+
+
 点击返回首页：
 
 [Lab01：SmartCode for GitHub Copilot 数据库智能体使用体验](./README.md)
